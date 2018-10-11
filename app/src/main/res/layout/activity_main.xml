@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <Button
+        android:text="分享好友"
+        android:id="@+id/btn_wechat_share_friend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="分享朋友圈"
+        android:id="@+id/btn_wechat_share_friend_circle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="分享小程序"
+        android:id="@+id/btn_wechat_share_applet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="打开小程序"
+        android:id="@+id/btn_wechat_open_applet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
