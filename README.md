@@ -1,10 +1,7 @@
 一直在搞微信分享但是从未搞过分享小程序，今天搞了一下还真的是学习了。
 此项目是kotlin和Java混写的（初学Kotlin可能用法不恰当的欢迎指正，嘿嘿...........)
 
->参考文章:https://blog.csdn.net/lr123838/article/details/80519894
-
-一直以为APP不能分享小程序几天亲自试了一下，哎呀妈呀尽然可以~今天真的是学习了.......................
-
+> 这里着重说一下微信分享小程序、APP小程序互跳
 
 1、微信分享小程序[(微信官网)](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419317340&token=ae4e632e7dcc175a183ce11346e0dfcd98399d82&lang=zh_CN)
 
